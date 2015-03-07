@@ -1,3 +1,4 @@
+package sample;
 
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
